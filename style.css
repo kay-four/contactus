@@ -1,21 +1,16 @@
 *{
     box-sizing: border-box;
 }
-main img{
-    /* align-self: center;  */
-    width: 100%;  
 
-}
 .container{
     display: flex;
     flex-direction: row;
 }
 
-
-button{
-    color: white;
+.btn-primary{
+    
     background-color: #111F4D;
-    border-radius: 5%;
+    
 }
 footer{
     color: white;
